@@ -5,7 +5,7 @@
 Let's go! Here are some useful links to get you started: 
 
 * [The Django project home page][homepage]. 
-* [The awesome docs for the current version][docs]. 
+* The awesome [docs for the current version][docs]. 
 * [The Forum in case you need some help][forum]
 * And since you're on GitHub, [the contributing guide][contributing], for getting involved. 
 
