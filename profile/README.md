@@ -2,9 +2,7 @@
 
 > The web framework for perfectionists with a deadline.
 
-We use GitHub here for managing source code and contributions via pull request. 
-
-Here are some useful links to get you started: 
+Let's go! Here are some useful links to get you started: 
 
 * [The Django project home page][homepage]. 
 * [The awesome docs for the current version][docs]. 
