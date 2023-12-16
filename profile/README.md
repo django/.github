@@ -1,5 +1,7 @@
 # Django
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
 > The web framework for perfectionists with a deadline.
 
 Let's go! Here are some useful links to get you started: 
