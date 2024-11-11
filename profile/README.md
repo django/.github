@@ -1,6 +1,6 @@
 # Django
 
-> The Web framework for perfectionists with deadlines. 
+> The web framework for perfectionists with deadlines. 
 
 Let's go! Here are some useful links to get you started: 
 
